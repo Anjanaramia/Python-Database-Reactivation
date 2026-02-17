@@ -1,0 +1,301 @@
+Lead_ID,First_Name,Last_Name,Email,Phone,Lead_Type,Lead_Source,Budget_or_Home_Value,Timeline,Property_Interest,Last_Contact_Date,Last_Activity_Date,Email_Opened,Link_Clicked,Showing_Requested,Engagement_Score,Lead_Status,Assigned_Agent,Notes
+L204,Amanda,2025-09-04 02:23:43.284644,amanda.campbell90@example.com,925-555-2043,Buyer,Open House,1049237,6+ months,Single Family,2025-02-14,,,,,,Dormant,Anjana,Downsizing
+L267,Barbara,2025-11-01 02:23:43.284644,barbara.garcia32@example.com,925-555-7822,Buyer,Instagram,1176136,Just browsing,Land,2025-04-29,2025-05-21,Yes,Yes,Yes,34.0,Nurturing,Sarah,Relocating for work
+L153,Jessica,2025-08-28 02:23:43.284644,jessica.garcia51@example.com,925-555-5477,Buyer,Google Ad,917312,6+ months,Multi-Family,2025-06-10,2025-06-27,Yes,Yes,No,91.0,Nurturing,David,Requested neighborhood info
+L010,Emma,2025-11-24 02:23:43.284644,Emma@email.com,925-555-5560,Buyer,Home Valuation Form,1230910,6+ months,Single Family,2026-01-30,,,,,,Hot,Anjana,Looking for 2-bedroom homes
+L234,Robert,2025-10-12 02:23:43.284644,robert.gonzalez71@example.com,925-555-6770,Buyer,Facebook,1136173,3-6 months,Multi-Family,2025-07-23,,,,,,Nurturing,Anjana,Wants good school district
+L227,Linda,2025-09-27 02:23:43.284644,linda.williams29@example.com,925-555-8978,Buyer,Google Ad,1261431,6+ months,Land,2025-12-18,2026-01-06,Yes,No,Yes,56.0,New,Mark,Needs a large backyard
+L197,Amanda,2025-10-30 02:23:43.284644,amanda.rivera23@example.com,925-555-5404,Buyer,Home Valuation Form,966673,Just browsing,Land,2025-12-17,2026-01-10,No,No,Yes,77.0,Converted,Sarah,Prefers quiet neighborhood
+L110,Donna,2025-10-26 02:23:43.284644,donna.nguyen36@example.com,925-555-4056,Buyer,Home Valuation Form,1376942,Just browsing,Multi-Family,2025-12-06,2025-12-06,Yes,Yes,No,86.0,Converted,Sarah,Downsizing
+L006,Alice,2025-12-09 02:23:43.284644,Alice@email.com,925-555-5556,Buyer,Referral,924553,6+ months,Single Family,2025-12-15,,,,,,Dormant,Anjana,Hasn’t responded in 6 months
+L176,Thomas,2025-11-16 02:23:43.284644,thomas.smith69@example.com,925-555-3237,Buyer,Home Valuation Form,1353889,6+ months,Land,2025-09-03,,,,,,Converted,Mark,Downsizing
+L238,Jessica,2025-09-27 02:23:43.284644,jessica.garcia46@example.com,925-555-5176,Buyer,Google Ad,1067621,3-6 months,Townhome,2025-12-27,2026-01-07,Yes,Yes,Yes,4.0,New,David,Looking for 3-bedroom homes
+L058,David,2025-11-06 02:23:43.284644,david.thompson20@example.com,925-555-2708,Buyer,Instagram,900460,3-6 months,Townhome,2025-03-25,,,,,,Converted,Mark,Needs a large backyard
+L219,John,2025-08-31 02:23:43.284644,john.davis93@example.com,925-555-1859,Buyer,Home Valuation Form,1023841,<3 months,Land,2025-05-10,,,,,,Engaged,David,Interested in modern upgrades
+L046,Patrick,2025-11-14 02:23:43.284644,Patrick@email.com,925-555-5596,Buyer,Home Valuation Form,1101964,6+ months,Condo,2026-01-30,,,,,,Hot,Anjana,Requested property tour
+L183,Nancy,2025-10-23 02:23:43.284644,nancy.lopez19@example.com,925-555-8427,Buyer,Google Ad,1230986,3-6 months,Condo,2025-03-09,2025-05-10,Yes,Yes,Yes,86.0,New,Sarah,Wants good school district
+L222,Kenneth,2025-12-10 02:23:43.284644,kenneth.harris51@example.com,925-555-8024,Buyer,Instagram,1309566,Just browsing,Multi-Family,2025-08-10,2025-10-13,No,No,Yes,68.0,Engaged,Mark,Prefers quiet neighborhood
+L290,Nancy,2025-11-28 02:23:43.284644,nancy.jones85@example.com,925-555-3951,Buyer,Facebook,1055746,6+ months,Land,2026-01-25,,,,,,Nurturing,Mark,Relocating for work
+L212,Sandra,2025-11-17 02:23:43.284644,sandra.wright35@example.com,925-555-2230,Buyer,Direct Mail,1367076,Just browsing,Land,2025-10-19,2025-12-23,No,No,No,57.0,Nurturing,David,Prefers quiet neighborhood
+L149,Linda,2025-10-31 02:23:43.284644,linda.moore50@example.com,925-555-7449,Buyer,Open House,1081595,<3 months,Land,2025-11-02,2025-11-06,No,No,No,73.0,New,Sarah,Wants good school district
+L166,Betty,2025-11-22 02:23:43.284644,betty.adams24@example.com,925-555-7370,Buyer,Referral,1060019,6+ months,Townhome,2025-04-16,2025-05-09,Yes,No,Yes,24.0,Dormant,Sarah,Wants good school district
+L079,Joshua,2025-09-06 02:23:43.284644,joshua.lee77@example.com,925-555-1269,Buyer,Direct Mail,1110153,6+ months,Townhome,2025-12-31,2026-01-22,Yes,Yes,Yes,96.0,Dormant,Sarah,Prefers quiet neighborhood
+L114,Barbara,2025-09-15 02:23:43.284644,barbara.king77@example.com,925-555-2254,Buyer,Facebook,1093582,6+ months,Land,2025-09-10,,,,,,New,Mark,Requested neighborhood info
+L250,John,2025-09-05 02:23:43.284644,john.sanchez91@example.com,925-555-8039,Buyer,Referral,1364261,Just browsing,Land,2025-11-21,,,,,,Hot,David,Prefers quiet neighborhood
+L251,Mary,2025-09-22 02:23:43.284644,mary.jones65@example.com,925-555-1027,Buyer,Google Ad,1326727,3-6 months,Townhome,2026-01-03,2026-01-05,Yes,Yes,No,43.0,Converted,Anjana,Relocating for work
+L105,Susan,2025-11-24 02:23:43.284644,susan.king65@example.com,925-555-1302,Buyer,Open House,1107672,3-6 months,Townhome,2025-12-12,,,,,,Engaged,Anjana,Looking for 3-bedroom homes
+L043,Maya,2025-09-22 02:23:43.284644,Maya@email.com,925-555-5593,Buyer,Zillow,1282571,<3 months,Single Family,2025-10-20,,,,,,Dormant,Anjana,No response after inquiry
+L282,Nancy,2025-10-01 02:23:43.284644,nancy.mitchell69@example.com,925-555-1745,Buyer,Zillow,939997,6+ months,Townhome,2025-11-08,,,,,,Engaged,Mark,Needs a large backyard
+L296,Susan,2025-09-30 02:23:43.284644,susan.king94@example.com,925-555-3886,Buyer,Direct Mail,1314225,3-6 months,Land,2025-01-29,2025-12-18,No,Yes,No,67.0,Engaged,Mark,First-time buyer
+L158,Thomas,2025-11-22 02:23:43.284644,thomas.harris40@example.com,925-555-7220,Buyer,Home Valuation Form,1227575,3-6 months,Land,2025-10-13,2026-01-10,Yes,No,No,10.0,Nurturing,David,Downsizing
+L239,Linda,2025-09-22 02:23:43.284644,linda.hernandez65@example.com,925-555-5655,Buyer,Referral,1180851,3-6 months,Land,2025-05-16,,,,,,Hot,Sarah,Downsizing
+L018,Mia,2025-10-29 02:23:43.284644,Mia@email.com,925-555-5568,Buyer,Open House,1201550,Just browsing,Single Family,2025-11-12,,,,,,Dormant,Anjana,Wants market trends
+L165,Linda,2025-12-15 02:23:43.284644,linda.hill58@example.com,925-555-6454,Buyer,Referral,1198734,<3 months,Condo,2025-11-22,2026-01-08,No,No,No,89.0,Dormant,Sarah,Wants good school district
+L034,Derek,2025-09-20 02:23:43.284644,Derek@email.com,925-555-5584,Buyer,Home Valuation Form,956915,<3 months,Single Family,2025-10-12,,,,,,Dormant,Anjana,Inactive lead
+L025,Tina,2025-09-25 02:23:43.284644,Tina@email.com,925-555-5575,Buyer,Home Valuation Form,1338870,<3 months,Single Family,2026-02-05,,,,,,New,Anjana,First-time inquiry
+L216,Andrew,2025-11-25 02:23:43.284644,andrew.clark46@example.com,925-555-8476,Buyer,Instagram,1040271,3-6 months,Townhome,2025-06-22,2026-01-02,Yes,No,No,3.0,Nurturing,Anjana,First-time buyer
+L120,Sarah,2025-09-27 02:23:43.284644,sarah.campbell86@example.com,925-555-3454,Buyer,Zillow,1070062,6+ months,Land,2025-10-05,,,,,,Nurturing,David,First-time buyer
+L008,Carla,2025-10-02 02:23:43.284644,Carla@email.com,925-555-5558,Buyer,Referral,581560,6+ months,Single Family,2026-01-28,,,,,,Nurturing,Anjana,Prefers email communication
+L091,Joseph,2025-09-17 02:23:43.284644,joseph.anderson51@example.com,925-555-9911,Buyer,Home Valuation Form,822005,Just browsing,Condo,2025-10-14,,,,,,New,Mark,Wants good school district
+L047,Quinn,2025-09-10 02:23:43.284644,Quinn@email.com,925-555-5597,Buyer,Instagram,696475,3-6 months,Townhome,2026-01-25,,,,,,Nurturing,Anjana,Looking for 3-bedroom homes
+L074,Thomas,2025-09-23 02:23:43.284644,thomas.jackson49@example.com,925-555-9275,Buyer,Direct Mail,780367,3-6 months,Townhome,2025-11-25,,,,,,New,Sarah,Relocating for work
+L094,Robert,2025-11-17 02:23:43.284644,robert.rivera11@example.com,925-555-7454,Buyer,Referral,811331,<3 months,Multi-Family,2025-09-24,2025-10-30,Yes,No,No,54.0,Engaged,Mark,Looking for 3-bedroom homes
+L077,Steven,2025-10-22 02:23:43.284644,steven.hill73@example.com,925-555-5662,Buyer,Zillow,754938,3-6 months,Townhome,2025-10-28,2025-12-08,No,Yes,Yes,17.0,Nurturing,David,Prefers quiet neighborhood
+L287,Christopher,2025-11-11 02:23:43.284644,christopher.johnson98@example.com,925-555-2103,Buyer,Google Ad,620142,<3 months,Townhome,2026-01-24,,,,,,Dormant,David,Downsizing
+L061,David,2025-12-13 02:23:43.284644,david.flores49@example.com,925-555-2531,Buyer,Zillow,684764,<3 months,Townhome,2025-02-25,,,,,,New,Anjana,Looking for 3-bedroom homes
+L078,Timothy,2025-09-10 02:23:43.284644,timothy.davis40@example.com,925-555-2214,Buyer,Referral,753852,3-6 months,Multi-Family,2026-01-14,2026-01-27,No,No,Yes,62.0,Hot,David,Looking for 3-bedroom homes
+L064,William,2025-11-14 02:23:43.284644,william.johnson26@example.com,925-555-4232,Buyer,Google Ad,766113,Just browsing,Single Family,2025-10-09,,,,,,Nurturing,David,Interested in modern upgrades
+L235,Robert,2025-09-25 02:23:43.284644,robert.carter42@example.com,925-555-1039,Buyer,Referral,867412,6+ months,Multi-Family,2025-08-26,2025-12-28,Yes,No,Yes,97.0,New,Sarah,Looking for investment property
+L230,Matthew,2025-09-08 02:23:43.284644,matthew.allen19@example.com,925-555-7200,Buyer,Referral,597179,3-6 months,Condo,2025-03-27,,,,,,Converted,Anjana,Relocating for work
+L112,Deborah,2025-12-05 02:23:43.284644,deborah.miller68@example.com,925-555-4427,Buyer,Home Valuation Form,657316,3-6 months,Multi-Family,2025-04-15,,,,,,Converted,Mark,Downsizing
+L232,Betty,2025-12-09 02:23:43.284644,betty.hernandez91@example.com,925-555-4623,Buyer,Google Ad,778734,6+ months,Single Family,2025-01-16,2025-03-07,Yes,No,Yes,88.0,Converted,David,Needs a large backyard
+L181,Donald,2025-10-27 02:23:43.284644,donald.young28@example.com,925-555-8612,Buyer,Facebook,880923,6+ months,Townhome,2025-11-20,2025-11-29,No,No,No,21.0,Converted,Mark,Looking for investment property
+L145,Brian,2025-08-22 02:23:43.284644,brian.lewis80@example.com,925-555-1883,Buyer,Instagram,690057,6+ months,Townhome,2025-05-01,2025-10-18,Yes,No,No,81.0,New,Mark,Wants good school district
+L240,Mark,2025-09-01 02:23:43.284644,mark.baker72@example.com,925-555-1540,Buyer,Home Valuation Form,767538,6+ months,Multi-Family,2025-07-13,2025-08-20,No,Yes,No,52.0,Dormant,Mark,Needs a large backyard
+L076,Michelle,2025-10-30 02:23:43.284644,michelle.lopez13@example.com,925-555-4721,Buyer,Instagram,652133,<3 months,Multi-Family,2025-02-23,,,,,,Nurturing,Sarah,Looking for 3-bedroom homes
+L298,Susan,2025-09-02 02:23:43.284644,susan.thompson75@example.com,925-555-8956,Buyer,Referral,864950,<3 months,Multi-Family,2025-09-11,2026-01-22,Yes,No,No,33.0,New,Anjana,Prefers quiet neighborhood
+L279,Michael,2025-09-27 02:23:43.284644,michael.wilson60@example.com,925-555-8528,Buyer,Open House,758467,Just browsing,Condo,2025-04-18,,,,,,Converted,David,Interested in modern upgrades
+L098,Michelle,2025-12-03 02:23:43.284644,michelle.scott72@example.com,925-555-6803,Buyer,Instagram,722657,Just browsing,Land,2025-12-02,,,,,,Hot,Mark,Downsizing
+L093,Carol,2025-11-08 02:23:43.284644,carol.mitchell76@example.com,925-555-3151,Buyer,Facebook,891190,6+ months,Townhome,2025-12-24,2026-01-27,Yes,Yes,No,88.0,New,Mark,Prefers quiet neighborhood
+L193,Ronald,2025-10-23 02:23:43.284644,ronald.anderson42@example.com,925-555-1445,Buyer,Home Valuation Form,535095,<3 months,Multi-Family,2025-04-27,2026-01-20,No,Yes,Yes,2.0,Engaged,Anjana,Interested in modern upgrades
+L026,Victor,2025-09-26 02:23:43.284644,Victor@email.com,925-555-5576,Buyer,Open House,543790,Just browsing,Single Family,2025-11-30,,,,,,Dormant,Anjana,No response last 4 months
+L233,Joseph,2025-10-07 02:23:43.284644,joseph.mitchell41@example.com,925-555-4563,Buyer,Direct Mail,575194,3-6 months,Land,2025-04-15,2025-09-27,Yes,No,No,24.0,Hot,Anjana,First-time buyer
+L060,Elizabeth,2025-11-23 02:23:43.284644,elizabeth.lopez60@example.com,925-555-2072,Buyer,Home Valuation Form,820433,Just browsing,Single Family,2026-01-13,,,,,,Converted,David,Requested neighborhood info
+L007,Brian,2025-08-25 02:23:43.284644,Brian@email.com,925-555-5557,Buyer,Home Valuation Form,575064,6+ months,Single Family,2026-02-01,,,,,,Hot,Anjana,Wants pricing info
+L186,Jennifer,2025-10-05 02:23:43.284644,jennifer.lee48@example.com,925-555-2171,Buyer,Referral,521841,<3 months,Single Family,2025-07-28,2025-09-20,No,No,No,97.0,Engaged,Anjana,Wants good school district
+L174,Margaret,2025-10-20 02:23:43.284644,margaret.rivera77@example.com,925-555-4023,Buyer,Referral,747539,<3 months,Condo,2025-07-17,,,,,,New,Mark,Needs a large backyard
+L031,Amber,2025-08-21 02:23:43.284644,Amber@email.com,925-555-5581,Buyer,Open House,772072,Just browsing,Single Family,2026-01-20,,,,,,Nurturing,Anjana,Asked about mortgage options
+L023,Rachel,2025-11-14 02:23:43.284644,Rachel@email.com,925-555-5573,Buyer,Home Valuation Form,636619,<3 months,Single Family,2026-01-26,,,,,,New,Anjana,Interested in condos
+L257,Barbara,2025-10-08 02:23:43.284644,barbara.johnson42@example.com,925-555-2327,Buyer,Google Ad,798242,3-6 months,Condo,2025-06-23,2025-07-08,No,No,Yes,56.0,Dormant,Mark,Interested in modern upgrades
+L057,Linda,2025-11-14 02:23:43.284644,linda.mitchell89@example.com,925-555-5246,Buyer,Open House,738271,<3 months,Multi-Family,2025-12-01,2026-01-17,Yes,Yes,Yes,77.0,Converted,David,Relocating for work
+L187,Andrew,2025-09-20 02:23:43.284644,andrew.hill73@example.com,925-555-6095,Buyer,Referral,534156,<3 months,Condo,2025-09-10,,,,,,Hot,David,Requested neighborhood info
+L109,Kimberly,2025-09-24 02:23:43.284644,kimberly.allen27@example.com,925-555-5573,Buyer,Open House,769322,<3 months,Land,2025-12-12,,,,,,Hot,Mark,Looking for investment property
+L127,Emily,2025-10-27 02:23:43.284644,emily.brown91@example.com,925-555-5050,Buyer,Zillow,771148,6+ months,Single Family,2025-10-06,2026-01-05,Yes,No,Yes,35.0,Hot,Mark,First-time buyer
+L231,Kimberly,2025-09-05 02:23:43.284644,kimberly.williams12@example.com,925-555-1260,Buyer,Zillow,533103,3-6 months,Multi-Family,2025-05-28,2025-10-06,Yes,Yes,No,7.0,Engaged,Sarah,Needs a large backyard
+L194,Mary,2025-09-09 02:23:43.284644,mary.green83@example.com,925-555-3380,Buyer,Open House,610172,6+ months,Single Family,2025-04-16,,,,,,Converted,Mark,First-time buyer
+L130,William,2025-12-12 02:23:43.284644,william.thompson17@example.com,925-555-3062,Buyer,Instagram,593574,3-6 months,Townhome,2025-10-10,2026-01-17,Yes,No,Yes,89.0,Nurturing,David,Downsizing
+L283,Matthew,2025-11-17 02:23:43.284644,matthew.wright48@example.com,925-555-3354,Buyer,Google Ad,532906,6+ months,Land,2025-02-27,,,,,,New,David,Relocating for work
+L083,Kimberly,2025-10-02 02:23:43.284644,kimberly.green53@example.com,925-555-5218,Buyer,Google Ad,783016,3-6 months,Single Family,2025-11-24,,,,,,Nurturing,Mark,Looking for 3-bedroom homes
+L085,James,2025-11-10 02:23:43.284644,james.carter98@example.com,925-555-2132,Buyer,Direct Mail,715434,Just browsing,Single Family,2025-12-28,2026-01-28,Yes,Yes,No,58.0,Nurturing,Mark,Needs a large backyard
+L067,Timothy,2025-11-28 02:23:43.284644,timothy.adams87@example.com,925-555-8732,Buyer,Zillow,681885,<3 months,Multi-Family,2025-01-16,,,,,,New,Mark,Downsizing
+L289,Ronald,2025-12-11 02:23:43.284644,ronald.lopez54@example.com,925-555-6544,Buyer,Direct Mail,625506,Just browsing,Single Family,2025-03-17,,,,,,New,Sarah,Downsizing
+L164,David,2025-09-08 02:23:43.284644,david.flores18@example.com,925-555-5573,Buyer,Direct Mail,880849,6+ months,Single Family,2025-11-19,,,,,,Engaged,Anjana,Needs a large backyard
+L155,Mark,2025-08-23 02:23:43.284644,mark.white56@example.com,925-555-4531,Buyer,Open House,654061,6+ months,Multi-Family,2025-03-19,,,,,,Dormant,Sarah,First-time buyer
+L020,Olivia,2025-10-20 02:23:43.284644,Olivia@email.com,925-555-5570,Buyer,Instagram,792153,3-6 months,Single Family,2026-01-22,,,,,,New,Anjana,Requested more listings
+L125,Emily,2025-09-30 02:23:43.284644,emily.miller22@example.com,925-555-5529,Buyer,Facebook,872223,Just browsing,Multi-Family,2026-01-19,,,,,,Nurturing,David,Wants good school district
+L080,Jennifer,2025-12-02 02:23:43.284644,jennifer.mitchell49@example.com,925-555-6688,Buyer,Referral,536814,6+ months,Multi-Family,2025-03-08,2025-10-25,Yes,No,Yes,66.0,Nurturing,Anjana,Interested in modern upgrades
+L115,Timothy,2025-10-03 02:23:43.284644,timothy.harris70@example.com,925-555-7907,Buyer,Direct Mail,888120,Just browsing,Single Family,2025-01-17,2025-12-05,No,Yes,Yes,37.0,Hot,Anjana,First-time buyer
+L119,Ashley,2025-10-15 02:23:43.284644,ashley.hernandez55@example.com,925-555-8946,Buyer,Zillow,895979,3-6 months,Land,2025-04-09,,,,,,Nurturing,Anjana,Downsizing
+L073,Elizabeth,2025-10-24 02:23:43.284644,elizabeth.thompson51@example.com,925-555-3819,Buyer,Google Ad,728372,6+ months,Condo,2025-12-23,,,,,,Hot,Sarah,Relocating for work
+L016,Karen,2025-10-17 02:23:43.284644,Karen@email.com,925-555-5566,Buyer,Zillow,742675,<3 months,Townhome,2026-01-31,,,,,,Hot,Anjana,Needs family-friendly homes
+L011,Felix,2025-08-26 02:23:43.284644,Felix@email.com,925-555-5561,Buyer,Zillow,649412,<3 months,Single Family,2025-10-05,,,,,,Dormant,Anjana,Investment inquiry last year
+L195,Kevin,2025-11-07 02:23:43.284644,kevin.clark13@example.com,925-555-8513,Buyer,Instagram,691466,<3 months,Condo,2025-03-12,,,,,,New,Anjana,Looking for 3-bedroom homes
+L102,Christopher,2025-09-29 02:23:43.284644,christopher.allen14@example.com,925-555-4749,Buyer,Direct Mail,529613,6+ months,Condo,2025-10-05,2026-02-01,Yes,No,No,31.0,Engaged,Anjana,Relocating for work
+L069,Sandra,2025-10-08 02:23:43.284644,sandra.jackson48@example.com,925-555-2769,Buyer,Home Valuation Form,607551,3-6 months,Townhome,2025-10-10,,,,,,Nurturing,Anjana,Looking for investment property
+L225,Lisa,2025-10-31 02:23:43.284644,lisa.young97@example.com,925-555-5269,Buyer,Referral,611272,<3 months,Condo,2025-11-27,,,,,,Hot,Sarah,Requested neighborhood info
+L038,Hugo,2025-11-01 02:23:43.284644,Hugo@email.com,925-555-5588,Buyer,Home Valuation Form,676503,<3 months,Townhome,2026-02-04,,,,,,Hot,Anjana,Requested virtual tour
+L017,Liam,2025-09-07 02:23:43.284644,Liam@email.com,925-555-5567,Buyer,Referral,815222,6+ months,Single Family,2026-02-02,,,,,,New,Anjana,Prefers quick closings
+L180,Donna,2025-10-20 02:23:43.284644,donna.lopez28@example.com,925-555-6447,Buyer,Home Valuation Form,800444,6+ months,Condo,2026-01-22,2026-01-27,No,Yes,Yes,57.0,New,Anjana,Needs a large backyard
+L148,Kevin,2025-11-01 02:23:43.284644,kevin.hall23@example.com,925-555-2490,Buyer,Instagram,636567,3-6 months,Multi-Family,2025-04-17,2025-12-14,No,No,No,88.0,Engaged,David,Downsizing
+L275,John,2025-09-15 02:23:43.284644,john.williams23@example.com,925-555-8802,Buyer,Instagram,541560,6+ months,Condo,2025-06-10,2025-06-27,Yes,No,No,83.0,Dormant,Sarah,Needs a large backyard
+L068,Kevin,2025-12-16 02:23:43.284644,kevin.walker12@example.com,925-555-6247,Buyer,Referral,616811,Just browsing,Single Family,2025-03-13,2025-10-30,Yes,No,No,93.0,Dormant,David,Interested in modern upgrades
+L229,Carol,2025-12-16 02:23:43.284644,carol.martinez46@example.com,925-555-1571,Buyer,Home Valuation Form,660137,<3 months,Land,2025-02-14,2025-05-31,No,Yes,Yes,62.0,New,Mark,Interested in modern upgrades
+L070,Kimberly,2025-11-15 02:23:43.284644,kimberly.martinez28@example.com,925-555-3892,Buyer,Google Ad,652863,<3 months,Single Family,2025-10-10,,,,,,Nurturing,Mark,Needs a large backyard
+L032,Blake,2025-12-04 02:23:43.284644,Blake@email.com,925-555-5582,Buyer,Referral,670692,<3 months,Single Family,2025-09-25,,,,,,Dormant,Anjana,Last contacted 6 months ago
+L184,Dorothy,2025-08-22 02:23:43.284644,dorothy.robinson67@example.com,925-555-4889,Buyer,Zillow,537085,Just browsing,Condo,2025-06-17,,,,,,Nurturing,Mark,First-time buyer
+L266,Barbara,2025-11-11 02:23:43.284644,barbara.hernandez46@example.com,925-555-4217,Buyer,Referral,850952,Just browsing,Single Family,2026-01-07,,,,,,Converted,David,Prefers quiet neighborhood
+L226,Joseph,2026-01-28 02:23:43.284644,joseph.wilson42@example.com,925-555-8306,Buyer,Referral,752822,<3 months,Single Family,2025-04-21,,,,,,Nurturing,David,Looking for 3-bedroom homes
+L141,David,2026-02-01 02:23:43.284644,david.scott15@example.com,925-555-1298,Buyer,Direct Mail,851741,3-6 months,Land,2026-01-21,,,,,,New,Mark,Needs a large backyard
+L019,Noah,2026-02-14 02:23:43.284644,Noah@email.com,925-555-5569,Buyer,Home Valuation Form,697190,6+ months,Single Family,2026-02-04,,,,,,Hot,Anjana,Interested in luxury homes
+L182,Deborah,2026-01-23 02:23:43.284644,deborah.lee82@example.com,925-555-9187,Buyer,Facebook,635057,3-6 months,Townhome,2025-11-07,,,,,,New,David,Looking for investment property
+L097,Ashley,2026-02-02 02:23:43.284644,ashley.baker49@example.com,925-555-3318,Buyer,Referral,625639,6+ months,Land,2025-08-30,,,,,,Nurturing,Mark,Downsizing
+L133,Charles,2026-02-08 02:23:43.284644,charles.mitchell60@example.com,925-555-1268,Buyer,Instagram,873093,6+ months,Multi-Family,2025-08-04,2025-08-12,No,Yes,Yes,83.0,Dormant,David,First-time buyer
+L263,Anthony,2026-01-25 02:23:43.284644,anthony.rivera54@example.com,925-555-5252,Buyer,Home Valuation Form,679781,6+ months,Townhome,2025-03-31,2025-07-13,No,Yes,No,77.0,Dormant,David,Looking for investment property
+L087,Andrew,2026-01-26 02:23:43.284644,andrew.walker39@example.com,925-555-9235,Buyer,Direct Mail,650754,3-6 months,Land,2025-07-08,2025-11-10,No,No,Yes,51.0,New,David,Looking for 3-bedroom homes
+L249,Dorothy,2026-02-08 02:23:43.284644,dorothy.hill68@example.com,925-555-2668,Buyer,Home Valuation Form,501228,<3 months,Land,2025-12-05,2026-01-07,Yes,No,No,49.0,New,Anjana,First-time buyer
+L246,Betty,2026-02-03 02:23:43.284644,betty.walker49@example.com,925-555-2602,Buyer,Referral,805064,Just browsing,Townhome,2025-05-04,,,,,,Converted,Mark,Looking for investment property
+L117,George,2026-02-04 02:23:43.284644,george.harris73@example.com,925-555-2205,Buyer,Zillow,707379,6+ months,Multi-Family,2025-11-14,,,,,,Engaged,David,Needs a large backyard
+L147,Lisa,2026-02-06 02:23:43.284644,lisa.carter61@example.com,925-555-9855,Buyer,Zillow,782513,3-6 months,Townhome,2025-10-02,,,,,,Hot,Mark,Wants good school district
+L293,Michael,2026-01-19 02:23:43.284644,michael.perez41@example.com,925-555-3984,Buyer,Direct Mail,582647,3-6 months,Single Family,2025-12-24,,,,,,Converted,David,Requested neighborhood info
+L198,Kenneth,2026-01-27 02:23:43.284644,kenneth.torres52@example.com,925-555-7635,Buyer,Facebook,771275,3-6 months,Condo,2025-03-08,,,,,,New,David,Prefers quiet neighborhood
+L207,Paul,2026-02-13 02:23:43.284644,paul.hall30@example.com,925-555-6909,Buyer,Instagram,848431,6+ months,Multi-Family,2025-09-20,2025-12-03,Yes,Yes,Yes,56.0,Engaged,Sarah,Prefers quiet neighborhood
+L056,Anthony,2026-01-28 02:23:43.284644,anthony.lee50@example.com,925-555-1522,Buyer,Referral,788588,3-6 months,Condo,2025-07-28,2026-01-28,Yes,Yes,No,3.0,Converted,Anjana,Needs a large backyard
+L173,Betty,2026-02-08 02:23:43.284644,betty.lewis61@example.com,925-555-8480,Buyer,Facebook,840277,6+ months,Land,2025-05-08,,,,,,Engaged,Mark,First-time buyer
+L185,Michelle,2026-02-15 02:23:43.284644,michelle.lee90@example.com,925-555-2336,Buyer,Instagram,684589,3-6 months,Multi-Family,2025-11-29,2025-12-29,No,No,No,15.0,New,Anjana,Looking for 3-bedroom homes
+L168,Amanda,2026-02-03 02:23:43.284644,amanda.clark83@example.com,925-555-7288,Buyer,Home Valuation Form,783167,<3 months,Single Family,2025-09-17,,,,,,Hot,Sarah,Looking for investment property
+L140,Linda,2026-01-20 02:23:43.284644,linda.lewis49@example.com,925-555-8703,Buyer,Instagram,773394,3-6 months,Townhome,2025-12-18,2025-12-28,No,Yes,No,23.0,Nurturing,David,Looking for investment property
+L254,Charles,2026-01-26 02:23:43.284644,charles.allen65@example.com,925-555-1122,Buyer,Open House,731208,<3 months,Townhome,2025-10-31,2026-01-04,No,No,Yes,62.0,Converted,Sarah,Interested in modern upgrades
+L039,Ivy,2026-02-01 02:23:43.284644,Ivy@email.com,925-555-5589,Buyer,Instagram,787676,3-6 months,Single Family,2026-01-22,,,,,,New,Anjana,Looking for suburban homes
+L126,Barbara,2026-01-28 02:23:43.284644,barbara.clark87@example.com,925-555-2083,Buyer,Open House,816280,<3 months,Townhome,2025-07-23,,,,,,Engaged,David,Looking for investment property
+L196,Ashley,2026-02-12 02:23:43.284644,ashley.garcia66@example.com,925-555-8349,Buyer,Referral,569872,<3 months,Townhome,2025-01-24,,,,,,Converted,Mark,Looking for investment property
+L284,Charles,2026-02-15 02:23:43.284644,charles.thomas45@example.com,925-555-1468,Buyer,Zillow,618033,<3 months,Townhome,2025-08-28,2026-01-07,Yes,No,No,9.0,Dormant,Sarah,Prefers quiet neighborhood
+L138,Deborah,2026-01-24 02:23:43.284644,deborah.sanchez92@example.com,925-555-4295,Buyer,Direct Mail,656733,6+ months,Condo,2025-04-01,,,,,,Converted,David,Looking for 3-bedroom homes
+L113,Sarah,2026-01-31 02:23:43.284644,sarah.wilson87@example.com,925-555-2456,Buyer,Open House,673225,6+ months,Condo,2025-07-07,2025-11-11,No,No,No,17.0,Converted,Mark,Needs a large backyard
+L169,Amanda,2026-02-08 02:23:43.284644,amanda.baker57@example.com,925-555-2925,Buyer,Home Valuation Form,586630,3-6 months,Single Family,2025-05-21,2025-09-20,No,No,Yes,52.0,Hot,David,Wants good school district
+L118,Timothy,2026-01-28 02:23:43.284644,timothy.thompson81@example.com,925-555-7413,Buyer,Open House,859059,Just browsing,Single Family,2025-10-03,2025-12-01,No,Yes,No,30.0,Engaged,David,Downsizing
+L278,David,2026-02-04 02:23:43.284644,david.martinez38@example.com,925-555-1496,Buyer,Home Valuation Form,885746,6+ months,Multi-Family,2025-10-16,,,,,,Nurturing,Sarah,Prefers quiet neighborhood
+L272,Matthew,2026-02-01 02:23:43.284644,matthew.davis78@example.com,925-555-7980,Buyer,Google Ad,867689,3-6 months,Townhome,2026-01-04,2026-01-16,No,No,Yes,49.0,New,David,Downsizing
+L156,Michelle,2026-02-05 02:23:43.284644,michelle.moore86@example.com,925-555-2980,Buyer,Referral,657579,<3 months,Townhome,2025-01-09,,,,,,Engaged,Anjana,Looking for investment property
+L177,Dorothy,2026-01-23 02:23:43.284644,dorothy.jones18@example.com,925-555-1077,Buyer,Direct Mail,743371,3-6 months,Multi-Family,2025-08-24,2025-09-20,Yes,No,No,23.0,New,Mark,Looking for investment property
+L179,James,2026-01-28 02:23:43.284644,james.jones85@example.com,925-555-6600,Buyer,Instagram,737614,3-6 months,Land,2025-09-17,,,,,,Hot,Mark,Needs a large backyard
+L003,Jason,2026-01-22 02:23:43.284644,jmiller@email.com,925-555-3333,Buyer,Zillow,850772,<3 months,Townhome,2025-10-01,2025-10-05,No,No,No,10.0,Dormant,Anjana,No response after open house
+L116,Charles,2026-01-18 02:23:43.284644,charles.robinson18@example.com,925-555-2547,Buyer,Zillow,575425,<3 months,Townhome,2025-03-12,2025-07-15,Yes,Yes,Yes,73.0,New,Mark,Looking for investment property
+L144,Carol,2026-02-11 02:23:43.284644,carol.martinez83@example.com,925-555-9694,Buyer,Zillow,856742,<3 months,Land,2025-01-23,2025-03-11,Yes,Yes,Yes,88.0,Dormant,David,Prefers quiet neighborhood
+L178,Joshua,2026-02-10 02:23:43.284644,joshua.lopez72@example.com,925-555-1884,Buyer,Home Valuation Form,589994,6+ months,Townhome,2025-12-09,2025-12-30,Yes,Yes,Yes,61.0,New,Mark,Interested in modern upgrades
+L121,Jessica,2026-02-16 02:23:43.284644,jessica.allen97@example.com,925-555-7700,Buyer,Open House,593659,6+ months,Townhome,2025-01-06,,,,,,Nurturing,David,Wants good school district
+L211,Nancy,2026-02-11 02:23:43.284644,nancy.baker54@example.com,925-555-4944,Buyer,Google Ad,546779,3-6 months,Townhome,2025-08-30,,,,,,Dormant,David,Requested neighborhood info
+L261,Christopher,2026-02-01 02:23:43.284644,christopher.martin71@example.com,925-555-9876,Buyer,Home Valuation Form,688920,6+ months,Multi-Family,2025-03-28,2025-10-09,No,Yes,No,6.0,Converted,Anjana,Interested in modern upgrades
+L128,Nancy,2026-02-08 02:23:43.284644,nancy.taylor25@example.com,925-555-1702,Buyer,Zillow,890924,3-6 months,Townhome,2025-12-20,2026-01-27,Yes,Yes,No,2.0,Converted,Sarah,Downsizing
+L075,Michael,2026-02-10 02:23:43.284644,michael.hill53@example.com,925-555-3158,Buyer,Instagram,653131,3-6 months,Land,2025-03-01,,,,,,Dormant,David,Looking for 3-bedroom homes
+L030,Zachary,2026-02-06 02:23:43.284644,Zachary@email.com,925-555-5580,Buyer,Zillow,674233,<3 months,Single Family,2026-02-02,,,,,,New,Anjana,Prefers text messages
+L084,Michael,2026-02-07 02:23:43.284644,michael.sanchez84@example.com,925-555-9385,Buyer,Home Valuation Form,500382,Just browsing,Multi-Family,2025-10-12,,,,,,New,David,First-time buyer
+L270,Melissa,2026-01-29 02:23:43.284644,melissa.williams42@example.com,925-555-3779,Buyer,Instagram,663751,Just browsing,Single Family,2025-06-21,,,,,,Converted,Anjana,Looking for investment property
+L108,Patricia,2026-02-08 02:23:43.284644,patricia.baker12@example.com,925-555-2198,Buyer,Google Ad,732269,Just browsing,Multi-Family,2025-10-25,2025-10-30,No,No,No,24.0,Dormant,David,Needs a large backyard
+L224,Carol,2026-02-10 02:23:43.284644,carol.scott79@example.com,925-555-5186,Buyer,Zillow,822432,3-6 months,Land,2025-10-31,2025-12-26,No,Yes,Yes,24.0,New,Mark,Downsizing
+L159,Steven,2026-01-27 02:23:43.284644,steven.king70@example.com,925-555-3161,Buyer,Open House,851827,6+ months,Condo,2025-07-09,,,,,,Converted,Mark,Wants good school district
+L281,Kimberly,2026-01-24 02:23:43.284644,kimberly.rivera91@example.com,925-555-5025,Buyer,Google Ad,524846,<3 months,Land,2025-03-08,2025-05-17,Yes,No,No,50.0,Dormant,Mark,Looking for investment property
+L247,Dorothy,2026-02-01 02:23:43.284644,dorothy.jones71@example.com,925-555-8876,Buyer,Open House,815087,<3 months,Land,2025-02-11,,,,,,New,Anjana,Looking for 3-bedroom homes
+L223,Donald,2026-02-10 02:23:43.284644,donald.roberts73@example.com,925-555-6090,Buyer,Zillow,824776,<3 months,Townhome,2025-08-12,,,,,,Engaged,Sarah,Needs a large backyard
+L066,William,2026-01-27 02:23:43.284644,william.torres52@example.com,925-555-6513,Buyer,Referral,808552,Just browsing,Single Family,2025-10-15,,,,,,New,Sarah,Looking for investment property
+L199,Barbara,2026-01-21 02:23:43.284644,barbara.mitchell88@example.com,925-555-5748,Buyer,Instagram,780512,3-6 months,Townhome,2025-04-27,,,,,,Nurturing,Sarah,Interested in modern upgrades
+L086,Jennifer,2026-01-22 02:23:43.284644,jennifer.king95@example.com,925-555-4008,Buyer,Open House,530069,<3 months,Condo,2025-10-01,,,,,,Engaged,Mark,Relocating for work
+L214,Donna,2026-02-03 02:23:43.284644,donna.martinez13@example.com,925-555-1249,Buyer,Facebook,824618,<3 months,Multi-Family,2025-12-15,2026-01-10,No,No,Yes,72.0,Nurturing,Sarah,Downsizing
+L160,Mark,2026-01-18 02:23:43.284644,mark.gonzalez15@example.com,925-555-9352,Buyer,Home Valuation Form,739899,<3 months,Multi-Family,2025-02-19,2026-01-01,Yes,Yes,Yes,96.0,Nurturing,Anjana,Needs a large backyard
+L013,Henry,2026-02-01 02:23:43.284644,Henry@email.com,925-555-5563,Buyer,Open House,818050,Just browsing,Single Family,2026-01-25,,,,,,Hot,Anjana,Wants financing options
+L036,Finn,2026-02-02 02:23:43.284644,Finn@email.com,925-555-5586,Buyer,Referral,610459,<3 months,Single Family,2026-01-18,,,,,,Nurturing,Anjana,Interested in condos
+L029,Yara,2026-01-22 02:23:43.284644,Yara@email.com,925-555-5579,Buyer,Home Valuation Form,853754,<3 months,Townhome,2025-12-10,,,,,,Dormant,Anjana,Inactive since last year
+L143,Joseph,2026-02-12 02:23:43.284644,joseph.campbell44@example.com,925-555-3455,Buyer,Direct Mail,800679,Just browsing,Condo,2025-01-09,,,,,,Converted,Mark,Requested neighborhood info
+L285,Paul,2026-01-30 02:23:43.284644,paul.clark82@example.com,925-555-6683,Buyer,Direct Mail,518634,6+ months,Land,2025-01-22,2025-04-23,Yes,No,Yes,99.0,Dormant,Sarah,Relocating for work
+L255,Dorothy,2026-02-06 02:23:43.284644,dorothy.torres48@example.com,925-555-5491,Buyer,Home Valuation Form,656440,<3 months,Land,2025-08-12,2025-11-01,Yes,No,No,76.0,Dormant,David,Interested in modern upgrades
+L171,Ashley,2026-01-23 02:23:43.284644,ashley.lee45@example.com,925-555-5141,Buyer,Referral,745876,3-6 months,Single Family,2025-12-15,2025-12-15,No,Yes,No,79.0,Engaged,David,Looking for investment property
+L052,Victor,2026-01-25 02:23:43.284644,Victor@email.com,925-555-5602,Buyer,Instagram,765262,3-6 months,Single Family,2026-02-05,,,,,,New,Anjana,Interested in condos
+L096,Patricia,2026-02-13 02:23:43.284644,patricia.flores65@example.com,925-555-3116,Buyer,Referral,736825,6+ months,Single Family,2026-01-15,,,,,,Converted,Sarah,Looking for 3-bedroom homes
+L209,Melissa,2026-01-28 02:23:43.284644,melissa.torres77@example.com,925-555-6270,Buyer,Instagram,740257,<3 months,Land,2026-01-10,2026-01-20,Yes,No,Yes,25.0,Engaged,Sarah,Needs a large backyard
+L248,Donna,2026-01-26 02:23:43.284644,donna.taylor46@example.com,925-555-8974,Buyer,Google Ad,879247,3-6 months,Land,2025-09-30,2025-11-07,Yes,No,No,88.0,New,Mark,Relocating for work
+L042,Leo,2026-01-30 02:23:43.284644,Leo@email.com,925-555-5592,Buyer,Referral,567086,<3 months,Townhome,2026-02-01,,,,,,Hot,Anjana,Interested in luxury condos
+L090,Carol,2026-01-22 02:23:43.284644,carol.walker52@example.com,925-555-8636,Buyer,Instagram,755377,3-6 months,Multi-Family,2025-03-20,,,,,,Engaged,David,Needs a large backyard
+L245,George,2026-01-25 02:23:43.284644,george.ramirez74@example.com,925-555-9302,Buyer,Direct Mail,852104,Just browsing,Multi-Family,2025-07-07,,,,,,Engaged,David,Downsizing
+L137,Steven,2026-02-12 02:23:43.284644,steven.gonzalez80@example.com,925-555-3388,Buyer,Referral,713537,<3 months,Single Family,2025-05-01,,,,,,Hot,Sarah,Looking for 3-bedroom homes
+L027,Wendy,2026-02-02 02:23:43.284644,Wendy@email.com,925-555-5577,Buyer,Referral,510093,<3 months,Condo,2026-01-15,,,,,,Nurturing,Anjana,Requested more images
+L294,Patricia,2026-02-10 02:23:43.284644,patricia.walker77@example.com,925-555-4584,Buyer,Direct Mail,592664,Just browsing,Single Family,2025-10-13,,,,,,Converted,Mark,Needs a large backyard
+L142,John,2026-01-31 02:23:43.284644,john.hall11@example.com,925-555-6582,Buyer,Facebook,542952,3-6 months,Townhome,2025-07-25,2025-08-08,Yes,Yes,Yes,52.0,New,Sarah,Prefers quiet neighborhood
+L201,Margaret,2026-02-06 02:23:43.284644,margaret.adams35@example.com,925-555-4023,Seller,Home Valuation Form,1292698,Just browsing,Condo,2025-12-03,,,,,,Dormant,Mark,Looking for investment property
+L001,Michael,2026-01-19 02:23:43.284644,mtorres@email.com,925-555-1111,Seller,Instagram,1125636,3-6 months,Single Family,2026-01-02,2026-01-10,Yes,Yes,No,35.0,Nurturing,Anjana,Wants good school district
+L269,William,2026-02-05 02:23:43.284644,william.mitchell93@example.com,925-555-2218,Seller,Direct Mail,1778940,<3 months,Townhome,2025-11-06,2025-11-10,Yes,No,Yes,13.0,Nurturing,Mark,Relocating for work
+L273,Barbara,2026-01-25 02:23:43.284644,barbara.sanchez81@example.com,925-555-2167,Seller,Google Ad,1521801,Just browsing,Land,2025-10-13,2026-01-07,No,Yes,Yes,32.0,Hot,Mark,Looking for investment property
+L101,Robert,2026-02-12 02:23:43.284644,robert.lopez32@example.com,925-555-1222,Seller,Facebook,1040638,6+ months,Multi-Family,2025-01-14,,,,,,Engaged,Sarah,Interested in modern upgrades
+L260,Christopher,2026-02-16 02:23:43.284644,christopher.brown49@example.com,925-555-3328,Seller,Direct Mail,1458051,3-6 months,Multi-Family,2025-08-10,,,,,,New,Sarah,Downsizing
+L256,Donna,2026-02-03 02:23:43.284644,donna.king45@example.com,925-555-4076,Seller,Direct Mail,1592968,Just browsing,Townhome,2025-06-08,,,,,,Converted,Anjana,Downsizing
+L172,Timothy,2026-02-15 02:23:43.284644,timothy.martinez61@example.com,925-555-7217,Seller,Referral,1122862,3-6 months,Townhome,2025-04-24,2025-06-18,No,Yes,Yes,76.0,Engaged,Mark,Requested neighborhood info
+L099,Thomas,2026-01-26 02:23:43.284644,thomas.rodriguez86@example.com,925-555-7828,Seller,Facebook,1745840,<3 months,Single Family,2025-08-23,,,,,,Converted,Anjana,Relocating for work
+L037,Gabriella,2026-02-12 02:23:43.284644,Gabriella@email.com,925-555-5587,Seller,Open House,1623761,Just browsing,Single Family,2025-11-01,,,,,,Dormant,Anjana,No response in 5 months
+L062,Donna,2026-01-30 02:23:43.284644,donna.harris87@example.com,925-555-2407,Seller,Direct Mail,1601898,Just browsing,Townhome,2025-11-22,2025-11-23,No,Yes,No,67.0,Dormant,Sarah,First-time buyer
+L151,Brian,2026-02-05 02:23:43.284644,brian.wilson42@example.com,925-555-7968,Seller,Home Valuation Form,1199962,Just browsing,Townhome,2025-12-11,,,,,,Nurturing,Mark,Needs a large backyard
+L237,Deborah,2026-02-11 02:23:43.284644,deborah.williams33@example.com,925-555-6820,Seller,Home Valuation Form,1673731,6+ months,Condo,2026-01-01,,,,,,Nurturing,Mark,Requested neighborhood info
+L203,Anthony,2026-02-05 02:23:43.284644,anthony.clark87@example.com,925-555-9250,Seller,Zillow,1677509,6+ months,Land,2025-02-17,,,,,,Hot,Mark,Prefers quiet neighborhood
+L243,Kenneth,2026-02-15 02:23:43.284644,kenneth.davis90@example.com,925-555-9665,Seller,Direct Mail,1089560,<3 months,Condo,2025-05-16,2025-05-21,No,Yes,Yes,18.0,Dormant,Anjana,First-time buyer
+L012,Grace,2026-01-23 02:23:43.284644,Grace@email.com,925-555-5562,Seller,Referral,1395457,6+ months,Single Family,2026-01-20,,,,,,Nurturing,Anjana,Requested virtual tour
+L297,Kimberly,2026-01-29 02:23:43.284644,kimberly.clark44@example.com,925-555-8549,Seller,Zillow,1508371,6+ months,Land,2025-11-13,2025-11-28,No,No,Yes,91.0,Converted,David,Looking for investment property
+L268,Kimberly,2026-01-29 02:23:43.284644,kimberly.taylor25@example.com,925-555-2870,Seller,Zillow,1127099,<3 months,Single Family,2025-12-22,2026-01-10,No,Yes,No,83.0,New,Mark,Relocating for work
+L028,Xander,2026-02-02 02:23:43.284644,Xander@email.com,925-555-5578,Seller,Instagram,1320893,3-6 months,Single Family,2026-01-28,,,,,,Hot,Anjana,Looking for investment property
+L220,Robert,2026-01-18 02:23:43.284644,robert.jackson44@example.com,925-555-7198,Seller,Referral,1131457,<3 months,Land,2025-09-20,2025-10-12,Yes,No,No,23.0,Nurturing,Mark,Requested neighborhood info
+L005,Daniel,2026-01-18 02:23:43.284644,dlopez@email.com,925-555-5555,Seller,Open House,1207777,Just browsing,Condo,2025-12-20,2025-12-20,No,No,No,5.0,New,Anjana,First-time buyer
+L123,Steven,2026-02-04 02:23:43.284644,steven.scott47@example.com,925-555-5953,Seller,Google Ad,1473661,<3 months,Land,2025-03-21,,,,,,New,Sarah,First-time buyer
+L033,Caitlin,2026-02-01 02:23:43.284644,Caitlin@email.com,925-555-5583,Seller,Instagram,1055662,3-6 months,Condo,2026-01-30,,,,,,Hot,Anjana,Looking for family home
+L205,Kenneth,2026-01-19 02:23:43.284644,kenneth.martinez15@example.com,925-555-9002,Seller,Home Valuation Form,1386230,6+ months,Condo,2026-01-10,,,,,,Engaged,Anjana,Looking for 3-bedroom homes
+L163,Sarah,2026-02-10 02:23:43.284644,sarah.robinson60@example.com,925-555-9322,Seller,Home Valuation Form,1360082,<3 months,Single Family,2025-03-22,,,,,,Hot,Sarah,Wants good school district
+L210,Margaret,2026-02-13 02:23:43.284644,margaret.miller68@example.com,925-555-5318,Seller,Direct Mail,1105300,6+ months,Condo,2025-11-02,,,,,,New,Sarah,Requested neighborhood info
+L286,Mary,2026-01-19 02:23:43.284644,mary.thomas52@example.com,925-555-5681,Seller,Referral,1704862,<3 months,Townhome,2025-03-23,,,,,,Engaged,Anjana,First-time buyer
+L139,Matthew,2026-02-12 02:23:43.284644,matthew.young84@example.com,925-555-2554,Seller,Open House,1660292,6+ months,Condo,2026-01-02,2026-01-03,Yes,No,Yes,12.0,Dormant,Anjana,Interested in modern upgrades
+L063,Anthony,2026-01-18 02:23:43.284644,anthony.flores41@example.com,925-555-3716,Seller,Instagram,1000647,3-6 months,Condo,2025-01-19,,,,,,Hot,Mark,Interested in modern upgrades
+L136,Michael,2026-02-14 02:23:43.284644,michael.flores91@example.com,925-555-1744,Seller,Direct Mail,1105098,Just browsing,Single Family,2026-01-02,,,,,,Nurturing,Mark,Looking for 3-bedroom homes
+L129,Christopher,2026-01-31 02:23:43.284644,christopher.hill88@example.com,925-555-8451,Seller,Facebook,1332684,<3 months,Land,2025-06-24,,,,,,New,David,Wants good school district
+L291,Kenneth,2026-02-03 02:23:43.284644,kenneth.allen21@example.com,925-555-5294,Seller,Direct Mail,1199842,6+ months,Single Family,2025-08-21,2025-10-06,No,No,No,41.0,Nurturing,Anjana,Relocating for work
+L009,David,2026-02-12 02:23:43.284644,David@email.com,925-555-5559,Seller,Instagram,1307051,3-6 months,Single Family,2025-11-20,,,,,,Dormant,Anjana,Last inquiry nearly 3 months ago
+L071,Dorothy,2026-01-22 02:23:43.284644,dorothy.green29@example.com,925-555-5975,Seller,Facebook,1354789,Just browsing,Condo,2025-04-04,2025-09-21,No,Yes,Yes,96.0,Engaged,Anjana,Wants good school district
+L265,Christopher,2026-02-11 02:23:43.284644,christopher.davis87@example.com,925-555-5861,Seller,Instagram,1184280,3-6 months,Condo,2025-12-27,2026-01-22,Yes,No,Yes,69.0,Dormant,Sarah,Requested neighborhood info
+L065,Amanda,2026-02-08 02:23:43.284644,amanda.martinez25@example.com,925-555-3660,Seller,Instagram,1573329,6+ months,Land,2025-06-07,,,,,,Hot,Anjana,Looking for investment property
+L045,Olivia,2026-02-10 02:23:43.284644,Olivia@email.com,925-555-5595,Seller,Open House,816540,Just browsing,Townhome,2025-11-15,,,,,,Dormant,Anjana,Inactive lead
+L280,Michelle,2026-02-15 02:23:43.284644,michelle.young82@example.com,925-555-1989,Seller,Direct Mail,770856,Just browsing,Land,2025-01-10,,,,,,Hot,Mark,Prefers quiet neighborhood
+L157,Joshua,2026-02-09 02:23:43.284644,joshua.anderson31@example.com,925-555-3599,Seller,Facebook,864563,3-6 months,Single Family,2025-03-30,,,,,,Converted,Anjana,Interested in modern upgrades
+L041,Kylie,2026-02-09 02:23:43.284644,Kylie@email.com,925-555-5591,Seller,Referral,541718,<3 months,Single Family,2026-01-28,,,,,,Nurturing,Anjana,Asked about listings
+L124,Timothy,2026-02-09 02:23:43.284644,timothy.campbell81@example.com,925-555-6970,Seller,Direct Mail,544744,3-6 months,Land,2025-05-25,2025-09-09,No,No,No,23.0,Dormant,Mark,Requested neighborhood info
+L276,James,2026-02-10 02:23:43.284644,james.jackson49@example.com,925-555-9174,Seller,Open House,567117,6+ months,Single Family,2025-08-28,2025-12-10,Yes,No,Yes,72.0,Dormant,Mark,Downsizing
+L217,Anthony,2026-01-30 02:23:43.284644,anthony.hall33@example.com,925-555-3855,Seller,Google Ad,739536,Just browsing,Townhome,2025-04-14,2025-07-24,Yes,Yes,No,83.0,Hot,Sarah,Relocating for work
+L154,Ashley,2026-01-27 02:23:43.284644,ashley.walker62@example.com,925-555-9937,Seller,Google Ad,763186,Just browsing,Condo,2025-12-08,,,,,,Hot,Sarah,Interested in modern upgrades
+L024,Samuel,2026-02-06 02:23:43.284644,Samuel@email.com,925-555-5574,Seller,Referral,611128,<3 months,Single Family,2025-10-18,,,,,,Dormant,Anjana,Wants neighborhood info
+L262,Linda,2026-01-25 02:23:43.284644,linda.rivera81@example.com,925-555-4561,Seller,Direct Mail,851055,6+ months,Land,2025-04-30,,,,,,Engaged,David,Interested in modern upgrades
+L111,Melissa,2026-01-22 02:23:43.284644,melissa.brown24@example.com,925-555-2120,Seller,Open House,618028,3-6 months,Condo,2025-11-27,2026-01-21,Yes,No,No,30.0,Dormant,Mark,Prefers quiet neighborhood
+L082,Kimberly,2026-01-26 02:23:43.284644,kimberly.wright78@example.com,925-555-3585,Seller,Referral,777287,3-6 months,Condo,2025-07-15,2025-10-26,No,Yes,Yes,75.0,Nurturing,Sarah,Needs a large backyard
+L208,Dorothy,2026-02-10 02:23:43.284644,dorothy.miller43@example.com,925-555-4184,Seller,Google Ad,854115,6+ months,Condo,2025-04-28,2025-09-11,No,No,Yes,86.0,Nurturing,Mark,Downsizing
+L213,Steven,2026-01-18 02:23:43.284644,steven.davis16@example.com,925-555-8554,Seller,Zillow,511473,3-6 months,Land,2026-01-23,2026-01-27,No,Yes,Yes,19.0,Converted,David,Prefers quiet neighborhood
+L040,Jason,2026-02-16 02:23:43.284644,Jason@email.com,925-555-5590,Seller,Referral,677525,<3 months,Single Family,2025-12-05,,,,,,Dormant,Anjana,Lead inactive for 3 months
+L241,Mark,2026-01-26 02:23:43.284644,mark.williams98@example.com,925-555-8457,Seller,Direct Mail,548762,<3 months,Multi-Family,2025-10-30,2025-12-23,Yes,No,No,62.0,Converted,Anjana,Relocating for work
+L292,Barbara,2026-02-03 02:23:43.284644,barbara.smith11@example.com,925-555-8193,Seller,Direct Mail,835017,<3 months,Multi-Family,2025-03-11,,,,,,Converted,Mark,Needs a large backyard
+L259,Patricia,2026-02-13 02:23:43.284644,patricia.williams57@example.com,925-555-1562,Seller,Instagram,505374,3-6 months,Multi-Family,2025-01-13,2025-07-22,No,Yes,Yes,53.0,Dormant,Sarah,Needs a large backyard
+L200,Michael,2026-01-23 02:23:43.284644,michael.scott39@example.com,925-555-8808,Seller,Zillow,513564,6+ months,Single Family,2025-03-30,,,,,,Engaged,Anjana,Relocating for work
+L015,Jack,2026-02-12 02:23:43.284644,Jack@email.com,925-555-5565,Seller,Home Valuation Form,564898,6+ months,Single Family,2026-01-18,,,,,,Nurturing,Anjana,Interested in suburbs
+L048,Rebecca,2026-02-11 02:23:43.284644,Rebecca@email.com,925-555-5598,Seller,Zillow,644518,<3 months,Single Family,2025-12-20,,,,,,Dormant,Anjana,No activity last 6 months
+L095,John,2026-02-07 02:23:43.284644,john.garcia93@example.com,925-555-6707,Seller,Facebook,781592,<3 months,Condo,2025-04-21,,,,,,Dormant,Sarah,Downsizing
+L264,Sarah,2026-02-15 02:23:43.284644,sarah.baker14@example.com,925-555-2150,Seller,Facebook,534703,<3 months,Multi-Family,2025-05-27,2025-07-07,Yes,No,No,83.0,Dormant,Anjana,Needs a large backyard
+L228,Melissa,2026-01-26 02:23:43.284644,melissa.nelson28@example.com,925-555-9613,Seller,Zillow,791253,6+ months,Land,2025-02-10,2025-06-05,Yes,No,No,15.0,Dormant,Mark,Looking for investment property
+L274,George,2026-01-25 02:23:43.284644,george.rivera71@example.com,925-555-5878,Seller,Google Ad,810938,<3 months,Multi-Family,2026-01-13,,,,,,New,David,Looking for investment property
+L202,Joseph,2026-01-20 02:23:43.284644,joseph.young38@example.com,925-555-5328,Seller,Referral,581651,3-6 months,Land,2025-01-08,2025-07-02,No,Yes,No,92.0,Converted,Mark,Looking for 3-bedroom homes
+L162,James,2026-02-15 02:23:43.284644,james.carter44@example.com,925-555-6240,Seller,Direct Mail,793790,Just browsing,Condo,2025-04-01,2025-11-09,No,No,Yes,4.0,Dormant,Mark,Relocating for work
+L044,Nathan,2026-02-15 02:23:43.284644,Nathan@email.com,925-555-5594,Seller,Referral,633945,<3 months,Condo,2026-02-02,,,,,,New,Anjana,Prefers evening calls
+L218,Christopher,2026-02-02 02:23:43.284644,christopher.lewis42@example.com,925-555-7681,Seller,Referral,829229,3-6 months,Single Family,2025-03-12,2025-10-07,No,No,Yes,42.0,Hot,David,Interested in modern upgrades
+L146,Lisa,2026-02-14 02:23:43.284644,lisa.young72@example.com,925-555-9042,Seller,Zillow,524678,6+ months,Townhome,2025-04-07,,,,,,New,Sarah,Downsizing
+L191,Paul,2026-02-11 02:23:43.284644,paul.hill78@example.com,925-555-1407,Seller,Google Ad,893292,3-6 months,Single Family,2025-08-05,2025-11-19,Yes,No,Yes,92.0,Hot,Sarah,Relocating for work
+L221,Jessica,2026-02-16 02:23:43.284644,jessica.white14@example.com,925-555-4784,Seller,Open House,652670,6+ months,Townhome,2025-03-24,,,,,,Converted,Anjana,Downsizing
+L252,Linda,2026-02-04 02:23:43.284644,linda.thomas50@example.com,925-555-1740,Seller,Zillow,533653,Just browsing,Single Family,2025-12-01,,,,,,Dormant,Mark,Downsizing
+L004,Kavya,2026-01-31 02:23:43.284644,kraman@email.com,925-555-4444,Seller,Home Valuation Form,885089,6+ months,Single Family,2025-12-15,2026-01-14,Yes,Yes,No,55.0,Hot,Anjana,Considering spring listing
+L106,Patricia,2026-01-19 02:23:43.284644,patricia.roberts76@example.com,925-555-6881,Seller,Facebook,845489,3-6 months,Townhome,2025-01-14,,,,,,Converted,Anjana,Relocating for work
+L054,Xavier,2026-01-18 02:23:43.284644,Xavier@email.com,925-555-5604,Seller,Home Valuation Form,574803,6+ months,Single Family,2025-11-12,,,,,,Dormant,Anjana,Lead inactive since last contact
+L134,Kimberly,2026-02-14 02:23:43.284644,kimberly.martin61@example.com,925-555-6131,Seller,Home Valuation Form,586214,3-6 months,Single Family,2025-06-28,,,,,,Hot,David,Requested neighborhood info
+L002,Priya,2026-02-04 02:23:43.284644,pnair@email.com,925-555-2222,Seller,Referral,895170,<3 months,Single Family,2025-11-15,2026-01-12,Yes,No,No,45.0,Engaged,Anjana,Downsizing
+L132,Amanda,2026-01-30 02:23:43.284644,amanda.carter98@example.com,925-555-2905,Seller,Instagram,622132,6+ months,Townhome,2025-06-16,2025-12-03,Yes,No,No,27.0,Dormant,Anjana,Requested neighborhood info
+L104,Joshua,2026-02-11 02:23:43.284644,joshua.lopez27@example.com,925-555-8611,Seller,Zillow,738320,Just browsing,Single Family,2025-09-03,2026-01-13,No,Yes,No,49.0,Nurturing,Mark,Needs a large backyard
+L050,Taylor,2026-01-28 02:23:43.284644,Taylor@email.com,925-555-5600,Seller,Open House,665614,Just browsing,Single Family,2026-01-22,,,,,,Nurturing,Anjana,Requested neighborhood info
+L081,Joshua,2026-01-30 02:23:43.284644,joshua.jackson96@example.com,925-555-6344,Seller,Facebook,752748,Just browsing,Multi-Family,2025-04-22,,,,,,Hot,David,Interested in modern upgrades
+L206,Brian,2026-02-04 02:23:43.284644,brian.garcia42@example.com,925-555-1550,Seller,Facebook,888072,Just browsing,Multi-Family,2025-05-30,,,,,,Engaged,David,Interested in modern upgrades
+L035,Ella,2026-02-15 02:23:43.284644,Ella@email.com,925-555-5585,Seller,Zillow,881681,<3 months,Townhome,2026-01-26,,,,,,New,Anjana,First inquiry today
+L092,Steven,2026-01-20 02:23:43.284644,steven.white18@example.com,925-555-7054,Seller,Facebook,551810,Just browsing,Land,2025-09-15,,,,,,Converted,Sarah,First-time buyer
+L053,Willow,2026-01-29 02:23:43.284644,Willow@email.com,925-555-5603,Seller,Instagram,697318,<3 months,Single Family,2026-01-28,,,,,,Nurturing,Anjana,Prefers email updates
+L242,Kimberly,2026-02-13 02:23:43.284644,kimberly.johnson55@example.com,925-555-4593,Seller,Direct Mail,746368,Just browsing,Condo,2025-03-28,2025-08-18,No,No,Yes,42.0,New,Anjana,Needs a large backyard
+L014,Isabella,2026-01-21 02:23:43.284644,Isabella@email.com,925-555-5564,Seller,Instagram,785286,3-6 months,Townhome,2025-09-15,,,,,,Dormant,Anjana,First-time buyer
+L089,Robert,2026-02-08 02:23:43.284644,robert.wilson92@example.com,925-555-3575,Seller,Google Ad,713428,3-6 months,Land,2025-04-17,2025-10-14,No,Yes,No,34.0,Nurturing,Mark,Requested neighborhood info
+L167,Ronald,2026-02-05 02:23:43.284644,ronald.campbell48@example.com,925-555-3770,Seller,Instagram,636110,3-6 months,Land,2026-01-27,,,,,,Converted,Anjana,First-time buyer
+L295,William,2026-01-24 02:23:43.284644,william.king86@example.com,925-555-7374,Seller,Google Ad,559349,6+ months,Condo,2025-11-11,,,,,,Nurturing,Anjana,First-time buyer
+L135,Richard,2026-02-05 02:23:43.284644,richard.lopez75@example.com,925-555-1816,Seller,Direct Mail,630777,<3 months,Condo,2025-09-01,2026-01-24,No,Yes,Yes,35.0,New,Mark,Relocating for work
+L288,James,2026-01-29 02:23:43.284644,james.wright85@example.com,925-555-8746,Seller,Instagram,811264,<3 months,Multi-Family,2025-11-05,2025-12-18,Yes,Yes,Yes,94.0,Engaged,Mark,Looking for investment property
+L244,Ashley,2026-02-09 02:23:43.284644,ashley.wilson41@example.com,925-555-9808,Seller,Open House,504377,<3 months,Condo,2025-04-11,2025-09-25,Yes,No,No,97.0,Converted,Anjana,Requested neighborhood info
+L055,Sarah,2026-02-05 02:23:43.284644,sarah.perez81@example.com,925-555-5104,Seller,Home Valuation Form,644091,3-6 months,Condo,2025-08-25,2025-10-05,Yes,Yes,No,3.0,New,Mark,Looking for investment property
+L051,Uma,2026-01-29 02:23:43.284644,Uma@email.com,925-555-5601,Seller,Home Valuation Form,750186,6+ months,Single Family,2025-10-18,,,,,,Dormant,Anjana,Inactive for 4 months
+L175,Patricia,2026-02-04 02:23:43.284644,patricia.martin93@example.com,925-555-3467,Seller,Instagram,781543,6+ months,Land,2025-01-10,,,,,,Nurturing,Mark,Looking for 3-bedroom homes
+L190,David,2026-01-29 02:23:43.284644,david.thomas39@example.com,925-555-1659,Seller,Facebook,867794,Just browsing,Single Family,2025-04-19,,,,,,Nurturing,Anjana,First-time buyer
+L299,Patricia,2026-02-06 02:23:43.284644,patricia.baker48@example.com,925-555-7850,Seller,Facebook,515088,3-6 months,Townhome,2026-01-14,,,,,,Hot,Sarah,Downsizing
+L188,Sandra,2026-01-18 02:23:43.284644,sandra.robinson43@example.com,925-555-7011,Seller,Google Ad,564621,3-6 months,Condo,2025-12-10,2026-01-30,Yes,Yes,Yes,5.0,Hot,Anjana,Prefers quiet neighborhood
+L170,Donald,2026-01-25 02:23:43.284644,donald.green84@example.com,925-555-9604,Seller,Facebook,786881,Just browsing,Single Family,2025-08-03,,,,,,Nurturing,Mark,First-time buyer
+L059,Kevin,2026-01-29 02:23:43.284644,kevin.allen78@example.com,925-555-5422,Seller,Referral,664748,<3 months,Multi-Family,2025-03-01,,,,,,Nurturing,Mark,Relocating for work
+L049,Sean,2026-02-04 02:23:43.284644,Sean@email.com,925-555-5599,Seller,Home Valuation Form,800163,6+ months,Condo,2026-02-03,,,,,,New,Anjana,First-time inquiry
+L236,Kimberly,2026-02-03 02:23:43.284644,kimberly.johnson30@example.com,925-555-3322,Seller,Zillow,734064,3-6 months,Townhome,2025-01-19,2025-11-21,No,Yes,No,94.0,Engaged,David,Prefers quiet neighborhood
+L253,Andrew,2026-02-01 02:23:43.284644,andrew.campbell17@example.com,925-555-6793,Seller,Facebook,708308,Just browsing,Single Family,2025-09-29,2025-12-22,Yes,Yes,Yes,2.0,Nurturing,Anjana,Needs a large backyard
+L022,Quinn,2026-02-16 02:23:43.284644,Quinn@email.com,925-555-5572,Seller,Zillow,758961,<3 months,Single Family,2026-02-01,,,,,,Hot,Anjana,Prefers evening calls
+L161,Anthony,2026-02-14 02:23:43.284644,anthony.moore97@example.com,925-555-2061,Seller,Direct Mail,712443,3-6 months,Multi-Family,2025-10-02,2025-10-03,No,Yes,Yes,55.0,Engaged,Anjana,Needs a large backyard
+L277,Elizabeth,2026-02-04 02:23:43.284644,elizabeth.king66@example.com,925-555-4784,Seller,Home Valuation Form,800955,6+ months,Condo,2025-02-28,,,,,,Engaged,Mark,Downsizing
+L192,Kenneth,2026-01-30 02:23:43.284644,kenneth.nguyen67@example.com,925-555-7122,Seller,Google Ad,888636,Just browsing,Land,2025-01-25,2025-05-17,Yes,No,Yes,36.0,Dormant,David,Requested neighborhood info
+L258,Patricia,2026-01-19 02:23:43.284644,patricia.williams43@example.com,925-555-5540,Seller,Referral,537191,6+ months,Condo,2025-11-30,2026-01-10,Yes,No,Yes,51.0,Engaged,Anjana,Looking for 3-bedroom homes
+L150,Brian,2026-02-14 02:23:43.284644,brian.miller10@example.com,925-555-7822,Seller,Instagram,512504,Just browsing,Townhome,2026-01-27,,,,,,New,David,Interested in modern upgrades
+L131,Dorothy,2026-02-14 02:23:43.284644,dorothy.allen88@example.com,925-555-6803,Seller,Zillow,743885,6+ months,Land,2025-06-06,2026-02-01,No,No,No,67.0,New,Anjana,Looking for investment property
+L152,Melissa,2026-02-08 02:23:43.284644,melissa.smith57@example.com,925-555-1580,Seller,Home Valuation Form,837572,6+ months,Townhome,2025-03-18,,,,,,Engaged,Mark,Interested in modern upgrades
+L100,Deborah,2026-01-27 02:23:43.284644,deborah.davis88@example.com,925-555-2767,Seller,Google Ad,615556,6+ months,Condo,2025-06-03,2025-10-06,Yes,Yes,Yes,46.0,New,Sarah,First-time buyer
+L088,Betty,2026-02-04 02:23:43.284644,betty.roberts75@example.com,925-555-7145,Seller,Home Valuation Form,749299,Just browsing,Condo,2025-05-04,,,,,,New,Sarah,First-time buyer
+L215,Thomas,2026-02-02 02:23:43.284644,thomas.lopez15@example.com,925-555-7848,Seller,Instagram,527165,<3 months,Condo,2026-01-08,,,,,,Hot,Mark,Wants good school district
+L122,Andrew,2026-01-20 02:23:43.284644,andrew.harris88@example.com,925-555-9527,Seller,Open House,808323,3-6 months,Multi-Family,2025-10-16,2025-12-07,No,No,Yes,23.0,Converted,Mark,Wants good school district
+L300,Michael,2026-02-02 02:23:43.284644,michael.davis48@example.com,925-555-9067,Seller,Open House,556840,<3 months,Townhome,2025-02-24,2025-02-27,No,No,No,30.0,New,Anjana,Wants good school district
+L021,Peter,2026-01-28 02:23:43.284644,Peter@email.com,925-555-5571,Seller,Referral,664837,6+ months,Single Family,2025-12-01,,,,,,Dormant,Anjana,Wants WhatsApp updates
+L189,Thomas,2026-01-26 02:23:43.284644,thomas.scott64@example.com,925-555-7538,Seller,Google Ad,554197,6+ months,Land,2025-11-12,,,,,,Nurturing,Anjana,First-time buyer
+L072,Sandra,2026-02-16 02:23:43.284644,sandra.mitchell33@example.com,925-555-4592,Seller,Instagram,866498,Just browsing,Land,2025-08-05,2025-12-11,Yes,Yes,No,99.0,Converted,Sarah,Relocating for work
+L107,Dorothy,2026-02-09 02:23:43.284644,dorothy.hernandez93@example.com,925-555-5218,Seller,Open House,584679,6+ months,Single Family,2025-12-25,2026-01-07,Yes,Yes,No,90.0,Hot,Sarah,Wants good school district
+L271,Donna,2026-02-09 02:23:43.284644,donna.walker98@example.com,925-555-7958,Seller,Open House,824682,Just browsing,Land,2025-05-29,2025-08-30,No,Yes,No,98.0,New,David,Interested in modern upgrades
+L103,Lisa,2026-02-04 02:23:43.284644,lisa.jones75@example.com,925-555-1861,Seller,Instagram,773325,3-6 months,Single Family,2026-01-07,2026-01-21,Yes,Yes,Yes,66.0,Converted,Anjana,Needs a large backyard
