@@ -1,0 +1,4 @@
+Lead_Name,Lead_Type,Email_Opened,Link_Clicked,Showing_Requested,Budget_or_Home_Value,Timeline
+John Doe,Buyer,Yes,Yes,Yes,900000,0-3 months
+Jane Smith,Seller,Yes,No,No,500000,4-6 months
+Sample User,Buyer,No,No,No,300000,Unknown
