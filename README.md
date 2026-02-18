@@ -23,3 +23,19 @@ How to Run:
 -Place your lead database as Restructured_Leads_Database.csv in the root folder.
 
 -Run LeadScoringandLeadTemperature.py.
+
+Project Roadmap:
+
+Day 1 – Create 300-lead mock database  
+
+Day 2 – Build scoring logic 
+
+Day 3 – Build dormant detection logic
+
+Day 4 – Build reactivation email sequence
+
+Day 5 – Generate prioritized follow-up list
+
+Day 6 – Create case study PDF
+
+Day 7 – Turn into consulting offer
